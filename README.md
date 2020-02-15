@@ -2,7 +2,9 @@
 
 TERA Toolbox mod which adds some few changes to AQ mechanics.
 
-There are 2 extra mechs at 1st boss, and 3 extra mechs for both bosses. Check the spoiler below to see what they are... or figure them out yourself for more fun :^).
+**Note: some of this stuff wasn't fully tested, so use at your own risk** (you won't get banned or anything, but some unwanted behavior could happen during fights)
+
+There is 1 extra mech at 1st boss, and 3 extra mechs for both bosses. Check the spoiler below to see what they are... or figure them out yourself for more fun :^).
 
 <details>
 <summary>Extra features</summary>
@@ -18,7 +20,6 @@ There are 2 extra mechs at 1st boss, and 3 extra mechs for both bosses. Check th
             
 - 1st boss:
    - Players get ghost debuff for few seconds upon "Begone!" mech
-   - You receive Chaos debuff (WASD reversal) for few seconds during quadruple swipes mech
 - Both bosses:
    - Purple aggro circles are invisible
    - Party members HP bars are invisible

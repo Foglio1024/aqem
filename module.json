@@ -1,0 +1,12 @@
+{
+	"servers": ["https://raw.githubusercontent.com/Foglio1024/aqem/master/"],
+	"name": "aqem",
+	"author": "Foglio",
+	"disableAutoUpdate": false,
+	"description" : "AQ Extreme Mode",
+	"options": {
+		"reloadable" : true,
+		"niceName": "AQ Extreme Mode",
+		"guiName": "Akalath Quarantine Extreme Mode"
+	}
+}
