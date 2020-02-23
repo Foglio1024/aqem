@@ -116,7 +116,7 @@ class AQEM
         mod.hook("S_SHOW_HP", 3, ev =>
         {
             // hide hp bars
-            return this.enabled;
+            return !this.enabled;
         })
     }
 }
